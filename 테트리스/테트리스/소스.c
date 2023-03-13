@@ -441,7 +441,7 @@ int down_block(int y, int x)
             score += 1;
             area_init(y, x);   //초기화
             print_init(y, x);
-            return down_block(y + 1, x);     //x+1로 한칸씩 내리기
+            return down_block(y + 1, x);     //y+1로 한칸씩 내리기
         }
         else if (ans == 4)
         {
