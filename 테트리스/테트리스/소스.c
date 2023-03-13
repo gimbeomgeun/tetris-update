@@ -393,7 +393,7 @@ int down_block(int y, int x)
         {
             area_change();
             area_init(y, x);     //초기화
-            int a = block_side(y, ans + x, ans);  //s값 리턴받기
+            int a = block_side(y, ans + x, ans);  //x값 리턴받기
             if (x != a) //위치 변할 때만 ->불필요한 출력 제거
             {
                 drop_point_init(hard_y, hard_x);
@@ -441,7 +441,7 @@ int down_block(int y, int x)
             score += 1;
             area_init(y, x);   //초기화
             print_init(y, x);
-            return down_block(y + 1, x);     //d+1로 한칸씩 내리기
+            return down_block(y + 1, x);     //y+1로 한칸씩 내리기
         }
         else if (ans == 4)
         {
