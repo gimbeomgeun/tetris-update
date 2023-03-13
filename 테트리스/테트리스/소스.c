@@ -648,7 +648,7 @@ int line_down(int y)
 {
     for (int j = 1; j < AREA_COL + 1; j++)  //채워진 줄 초기화
     {
-        area[y][j] = 0
+        area[y][j] = 0;
     }
 
     for (int i = y; i > 0; i--)
