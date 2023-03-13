@@ -1,0 +1,22 @@
+﻿  소스.c
+C:\Users\beomgeun\Downloads\tetris-2022-08-04--main\tetris-2022-08-04--main\테트리스\테트리스\소스.c(75,9): error C2065: 'x': 선언되지 않은 식별자입니다.
+C:\Users\beomgeun\Downloads\tetris-2022-08-04--main\tetris-2022-08-04--main\테트리스\테트리스\소스.c(75,9): error C2059: 구문 오류: '{'
+C:\Users\beomgeun\Downloads\tetris-2022-08-04--main\tetris-2022-08-04--main\테트리스\테트리스\소스.c(75,18): error C2059: 구문 오류: ','
+C:\Users\beomgeun\Downloads\tetris-2022-08-04--main\tetris-2022-08-04--main\테트리스\테트리스\소스.c(76,18): error C2059: 구문 오류: ','
+C:\Users\beomgeun\Downloads\tetris-2022-08-04--main\tetris-2022-08-04--main\테트리스\테트리스\소스.c(84,1): error C2059: 구문 오류: '}'
+C:\Users\beomgeun\Downloads\tetris-2022-08-04--main\tetris-2022-08-04--main\테트리스\테트리스\소스.c(134,11): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\beomgeun\Downloads\tetris-2022-08-04--main\tetris-2022-08-04--main\테트리스\테트리스\소스.c(169,17): warning C4098: 'maze_print': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\beomgeun\Downloads\tetris-2022-08-04--main\tetris-2022-08-04--main\테트리스\테트리스\소스.c(304,5): warning C4013: 'is_Fullline'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\beomgeun\Downloads\tetris-2022-08-04--main\tetris-2022-08-04--main\테트리스\테트리스\소스.c(527,9): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\beomgeun\Downloads\tetris-2022-08-04--main\tetris-2022-08-04--main\테트리스\테트리스\소스.c(528,19): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\beomgeun\Downloads\tetris-2022-08-04--main\tetris-2022-08-04--main\테트리스\테트리스\소스.c(530,23): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\beomgeun\Downloads\tetris-2022-08-04--main\tetris-2022-08-04--main\테트리스\테트리스\소스.c(691,32): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\beomgeun\Downloads\tetris-2022-08-04--main\tetris-2022-08-04--main\테트리스\테트리스\소스.c(680,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\beomgeun\Downloads\tetris-2022-08-04--main\tetris-2022-08-04--main\테트리스\테트리스\소스.c(694,17): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\beomgeun\Downloads\tetris-2022-08-04--main\tetris-2022-08-04--main\테트리스\테트리스\소스.c(706,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\beomgeun\Downloads\tetris-2022-08-04--main\tetris-2022-08-04--main\테트리스\테트리스\소스.c(707,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\beomgeun\Downloads\tetris-2022-08-04--main\tetris-2022-08-04--main\테트리스\테트리스\소스.c(719,21): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\beomgeun\Downloads\tetris-2022-08-04--main\tetris-2022-08-04--main\테트리스\테트리스\소스.c(727,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\beomgeun\Downloads\tetris-2022-08-04--main\tetris-2022-08-04--main\테트리스\테트리스\소스.c(731,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\beomgeun\Downloads\tetris-2022-08-04--main\tetris-2022-08-04--main\테트리스\테트리스\소스.c(754,32): warning C4267: '+=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\beomgeun\Downloads\tetris-2022-08-04--main\tetris-2022-08-04--main\테트리스\테트리스\소스.c(743,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
